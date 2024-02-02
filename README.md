@@ -2,6 +2,9 @@
 
 Welcome to the Virtual Clinic Management Software project repository! This project focuses on developing an online platform to streamline interactions between patients, medical doctors, and clinic staff. The software aims to facilitate tasks such as scheduling appointments, accessing medical history, obtaining prescriptions, and participating in healthcare discussions.
 
+## Demonstration
+Watch the [YouTube video](https://youtu.be/xBuupUtLR34) to see the application in action.
+
 ## UI and UX Design
 
 Explore the interactive UI and UX design prototype for the Virtual Clinic Management Software: [View UI/UX Design Prototype](https://marvelapp.com/project/6272333)
